@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\OMRP\OMRP\bin\Debug\OMRP.exe.config
+C:\Users\gusta\source\repos\OMRP\OMRP\bin\Debug\OMRP.exe
+C:\Users\gusta\source\repos\OMRP\OMRP\bin\Debug\OMRP.pdb
+C:\Users\gusta\source\repos\OMRP\OMRP\bin\Debug\EntityFramework.dll
+C:\Users\gusta\source\repos\OMRP\OMRP\bin\Debug\EntityFramework.xml
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.Form1.resources
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.Properties.Resources.resources
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.csproj.Up2Date
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.exe
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.pdb
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.Form2.resources
+C:\Users\gusta\source\repos\OMRP\OMRP\obj\Debug\OMRP.Form3.resources
